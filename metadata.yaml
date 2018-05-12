@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5787
     wikipedia: http://en.wikipedia.org/wiki/H._M._Tomlinson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15167#London-River
 gutenberg_bookshelf: United Kingdom
 gutenberg_issued: '2005-02-25'
 gutenberg_type: Text
